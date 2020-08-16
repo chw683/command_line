@@ -17,7 +17,7 @@ impl Initialize for Cmd_Line {
     }
 }
 
-// 自定义实现 Finish 的 Debug 显示样式
+// 自定义实现 Cmd_Line 的 Display 显示样式
 impl fmt::Display for Cmd_Line {
     fn fmt(&self, f: &mut Formatter<'_>) -> fmt::Result {
         match &self.sub_cmd {
