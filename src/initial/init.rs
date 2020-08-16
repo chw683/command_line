@@ -1,5 +1,5 @@
 pub trait Initialize {
+    // Associate Type
     type output;
-    // 初始化
     fn new() -> Self::output;
 }
