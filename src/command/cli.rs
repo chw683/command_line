@@ -7,7 +7,7 @@ use crate::initial::Initialize;
 pub struct Cmd_Line {
     tree: Option<String>,
     #[structopt(subcommand)]
-    sub_cmd: Command,   // 子命令
+    sub_cmd: Command,
 }
 
 impl Initialize for Cmd_Line {
@@ -55,7 +55,6 @@ struct Work {
     typ: String,
 }
 
-// 转移所有权
 pub fn ownship_transfer(cli: Cmd_Line) {
     println!("{}", cli);
 }
