@@ -1,0 +1,11 @@
+E:\project\substrate\lesson4\command_line\target\debug\deps\unicode_segmentation-5798758e69158adf.rmeta: E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\lib.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\grapheme.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\tables.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\word.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\sentence.rs
+
+E:\project\substrate\lesson4\command_line\target\debug\deps\libunicode_segmentation-5798758e69158adf.rlib: E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\lib.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\grapheme.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\tables.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\word.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\sentence.rs
+
+E:\project\substrate\lesson4\command_line\target\debug\deps\unicode_segmentation-5798758e69158adf.d: E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\lib.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\grapheme.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\tables.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\word.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\sentence.rs
+
+E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\lib.rs:
+E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\grapheme.rs:
+E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\tables.rs:
+E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\word.rs:
+E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\unicode-segmentation-1.6.0\src\sentence.rs:

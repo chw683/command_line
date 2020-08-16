@@ -1,0 +1,13 @@
+E:\project\substrate\lesson4\command_line\target\debug\deps\quote-9002e958ea9e1ebc.rmeta: E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\lib.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\ext.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\format.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\ident_fragment.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\to_tokens.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\runtime.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\spanned.rs
+
+E:\project\substrate\lesson4\command_line\target\debug\deps\libquote-9002e958ea9e1ebc.rlib: E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\lib.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\ext.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\format.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\ident_fragment.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\to_tokens.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\runtime.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\spanned.rs
+
+E:\project\substrate\lesson4\command_line\target\debug\deps\quote-9002e958ea9e1ebc.d: E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\lib.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\ext.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\format.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\ident_fragment.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\to_tokens.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\runtime.rs E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\spanned.rs
+
+E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\lib.rs:
+E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\ext.rs:
+E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\format.rs:
+E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\ident_fragment.rs:
+E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\to_tokens.rs:
+E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\runtime.rs:
+E:\System\Cargo\registry\src\github.com-1ecc6299db9ec823\quote-1.0.7\src\spanned.rs:
